@@ -1,2 +1,3 @@
 GitとGithubの練習をしています。
 基本的なワークフローについて学びます。
+git add git commitについて学ぶ
