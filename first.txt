@@ -2,3 +2,4 @@ GitとGithubの練習をしています。
 基本的なワークフローについて学びます。
 git add git commitについて学ぶ
 git rm (削除する)
+git status
