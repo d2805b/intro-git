@@ -3,3 +3,4 @@ GitとGithubの練習をしています。
 git add git commitについて学ぶ
 git rm (削除する)
 git status
+git diff
